@@ -20,7 +20,7 @@ My greatest programming achievement was disassembling code from the Ecco the Dol
 - Finding the decompression algorythms used for tiles and levels and porting them to C. 
 - Figuring out the formats for sprites, level chunks and level maps and exporting them to an image.
 
-<img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 400px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps/trellias-bay.png" alt="" style="height: 400px;" />
+<img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 300px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps/trellias-bay.png" alt="" style="height: 300px;" />
 
 
 ## Projects I'm Involved In
