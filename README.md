@@ -32,7 +32,7 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 My greatest programming achievement was disassembling code from the Ecco the Dolphin series and porting it to C. My goal was to extract the graphics from these wonderful games which required:
 
 - Learning 68000 assembly.
-- Learning how to use software for reverse engineering software (such as [Radare2](https://rada.re/n)).
+- Learning how to use tools for reverse engineering software (such as [Radare2](https://rada.re/n)).
 - Learning the Sega Genesis's color, sprite and tile formats.
 - Finding the decompression algorythms used for tiles and levels and porting them to C. 
 - Figuring out the formats for sprites, level chunks and level maps and exporting them to an image.
