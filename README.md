@@ -6,7 +6,7 @@ There is nothing I can't do! I love development and I love learning!
 
 ## Top Things I've Built
 
-These are a list of projects that I've built from scratch, for a long time I preferred building everything from the ground up, this is a sample of some of those things.
+This is a list of projects that I've built from scratch, until I got into development professionally I preferred creating everything from the ground up. This is a sample of some of those projects.
 
 - A Wiki (2008)
 - A Social Network (2012)
