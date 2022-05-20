@@ -6,14 +6,19 @@ There is nothing I can't do! I love development and I love learning!
 
 ## Top Things I've Built
 
-This is a list of projects that I've built from scratch, until I got into development professionally I preferred creating everything from the ground up. This is a sample of some of those projects.
+This is a sample of projects that I've built from scratch, until I got into development professionally I preferred creating everything from the ground up.
 
-- A Wiki (2008)
-- A Social Network (2012)
+- [A Wiki](https://enigma4.nexusultima.com/cgi-bin/) (2008)
+- [A Social Network](https://enigmav.nexusultima.com/cgi-bin/) (2012)
 - A Game Demo
 - A Game Engine
 - Graphics Extractors (for the Ecco the Dolphin series)
-- Password Encoders and Decoders (for the Ecco the Dolphin series)
+- [Password Encoders and Decoders](https://eccothedolphin.online/ecco2-password-generator/) (for the Ecco the Dolphin series)
+
+## I Know React and web3!
+
+- [MyIPC.io](https://myipc.io/) A web based dApp that decodes playable video game characters from the Ethereum blockchain and stores them on to a local database.
+- [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
 
 ## My Greatest Programming Achievement
 
