@@ -17,7 +17,7 @@ This is a sample of projects that I've built from scratch, until I got into deve
 
 ## I Know React and web3!
 
-- [MyIPC.io](https://myipc.io/) A web based dApp that decodes playable video game characters from the Ethereum blockchain and stores them on to a local database.
+- [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
 
 ## My Greatest Programming Achievement
