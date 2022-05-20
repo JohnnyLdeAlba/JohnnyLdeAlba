@@ -8,12 +8,12 @@ There is nothing I can't do! I love development and I love learning!
 
 This is a sample of projects that I've built from scratch, until I got into development professionally I preferred creating everything from the ground up.
 
-- [A Wiki](https://enigma4.nexusultima.com/cgi-bin/) (2008)
-- [A Social Network](https://enigmav.nexusultima.com/cgi-bin/) (2012)
+- [A Wiki (2008)](https://enigma4.nexusultima.com/cgi-bin/)
+- [A Social Network (2012)](https://enigmav.nexusultima.com/cgi-bin/)
 - A Game Demo
 - A Game Engine
 - Graphics Extractors (for the Ecco the Dolphin series)
-- [Password Encoders and Decoders](https://eccothedolphin.online/ecco2-password-generator/) (for the Ecco the Dolphin series)
+- [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
 
 ## I Know React and web3!
 
