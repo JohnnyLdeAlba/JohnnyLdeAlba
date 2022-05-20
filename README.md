@@ -14,7 +14,7 @@
 
 ## Projects I'm Involved In
 
-*** Founder of [Ecco the Dolphin Online](https://eccothedolphin.online) ***
+**Founder of [Ecco the Dolphin Online](https://eccothedolphin.online)**
 Ecco the Dolphin Online is a community dedicated to reverse engineering, preservation, game oddities & history of everything from the Ecco the Dolphin series.
 
 ## Languages and Libraries I Know
