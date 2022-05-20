@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### Projects I'm Inolved In
+### Interests
+
+...
+
+### Projects I'm Involved In
 
 [Ecco the Dolphin Online](https://eccothedolphin.online)
 
