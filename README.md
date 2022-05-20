@@ -7,6 +7,7 @@ There is nothing I can't do! I love development and I love learning!
 ## Languages and Libraries I Know
 
 - Programming Languages: C, C++, C#, Pascal, Java, ActionScript, JavaScript, TypeScript, Perl, PHP, Python, Solidity
+- Databases: MySQL/MariaDB, PostGres
 - Libraries: ReactJS, Win32 API, Ethers.js Express.js
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3
