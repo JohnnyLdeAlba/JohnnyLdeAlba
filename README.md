@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @JohnnyLdeAlba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ## Hi, I'm Johnny de Alba!
 
 I am a freelance developer from Vallejo, California with experience in a variety of programming disiplines. I'm a Full Stack developer, a UX/UI designer, a game designer, a Database devleoper, and I can reverse engineer software from a variety of different platforms. 
 
 There is nothing I can't do! I love development and I love learning!
 
-## Greatest Programming Achievement
+## My Greatest Programming Achievement
 
 My greatest programming achievement was disassembling code from the Ecco the Dolphin series for Sega Genesis and porting it to C. My goal was to extract the graphics from these wonderful games which required:
 
