@@ -7,7 +7,7 @@
 ### Languages and Libraries I Know
 
 - Programming Languages: C, C++, C#, Pascal, Java, ActionScript, JavaScript, TypeScript, Perl, PHP, Python, Solidity
-- Libraries: ReactJS, WIN32 API
+- Libraries: ReactJS, Win32 API
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3
 
