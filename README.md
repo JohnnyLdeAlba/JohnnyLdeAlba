@@ -29,7 +29,7 @@ Below is a sample of projects that I've built from scratch. Until I got into dev
 
 ## My Greatest Programming Achievement
 
-My greatest programming achievement was disassembling code from the Ecco the Dolphin series for Sega Genesis and porting it to C. My goal was to extract the graphics from these wonderful games which required:
+My greatest programming achievement was disassembling code from the Ecco the Dolphin series and porting it to C. My goal was to extract the graphics from these wonderful games which required:
 
 - Learning 68000 assembly.
 - Learning how to use software for reverse engineering software (such as [Radare2](https://rada.re/n)).
