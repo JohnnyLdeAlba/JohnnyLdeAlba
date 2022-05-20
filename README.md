@@ -11,7 +11,7 @@ There is nothing I can't do! I love development and I love learning!
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3
 
-## Top Things I've Built
+## Favorite Projects I've Built
 
 Below is a sample of projects that I've built from scratch. Until I got into development professionally I preferred creating everything from the ground up.
 
