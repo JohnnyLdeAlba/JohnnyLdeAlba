@@ -4,13 +4,24 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## About
+## Hi, I'm Johnny de Alba!
 
-...
+I am a freelance developer from Vallejo, California with experience in a variety of programming disiplines. I'm a Full Stack developer, a UX/UI designer, a game designer, a Database devleoper, and I can reverse engineer software from a variety of different platforms. 
 
-## Interests
+There is nothing I can't do! I love development and I love learning!
 
-...
+## Greatest Programming Achievement
+
+My greatest programming achievement was disassembling code from the Ecco the Dolphin series for Sega Genesis and porting it to C. My goal was to extract the graphics from these wonderful games which required:
+
+- Learning 68000 assembly.
+- Learning how to use software for reverse engineering software (such as [Radare2](https://rada.re/n)).
+- Learning the Sega Genesis's color, sprite and tile formats.
+- Finding the decompression algorythms used for tiles and levels and porting them to C. 
+- Figuring out the formats for sprites, level chunks and level maps and exporting them to an image.
+
+<img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 400px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps" alt="" style="height: 400px;" />
+
 
 ## Projects I'm Involved In
 
