@@ -4,6 +4,17 @@ I am a freelance developer from Vallejo, California with experience in a variety
 
 There is nothing I can't do! I love development and I love learning!
 
+## Top Things I've Built
+
+These are a list of projects that I've built from scratch, for a long time I preferred building everything from the ground up, this is a sample of some of those things.
+
+- A Wiki (2008)
+- A Social Network (2012)
+- A Game Demo
+- A Game Engine
+- Graphics Extractors (for the Ecco the Dolphin series)
+- Password Encoders and Decoders (for the Ecco the Dolphin series)
+
 ## My Greatest Programming Achievement
 
 My greatest programming achievement was disassembling code from the Ecco the Dolphin series for Sega Genesis and porting it to C. My goal was to extract the graphics from these wonderful games which required:
