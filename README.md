@@ -12,7 +12,7 @@
 
 ...
 
-### Projects I'm Involved In
+## Projects I'm Involved In
 
 [Ecco the Dolphin Online](https://eccothedolphin.online)
 
