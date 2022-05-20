@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### About
+## About
 
 ...
 
-### Interests
+## Interests
 
 ...
 
@@ -16,7 +16,7 @@
 
 [Ecco the Dolphin Online](https://eccothedolphin.online)
 
-### Languages and Libraries I Know
+## Languages and Libraries I Know
 
 - Programming Languages: C, C++, C#, Pascal, Java, ActionScript, JavaScript, TypeScript, Perl, PHP, Python, Solidity
 - Libraries: ReactJS, Win32 API
