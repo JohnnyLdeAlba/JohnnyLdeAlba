@@ -34,7 +34,7 @@ My greatest programming achievement was disassembling code from the Ecco the Dol
 - Learning 68000 assembly.
 - Learning how to use tools for reverse engineering software (such as [Radare2](https://rada.re/n)).
 - Learning about the Sega Genesis's hardware including color, sprite and tile formats.
-- Finding the decompression algorythms used for tiles and levels and porting them to C. 
+- Finding the decompression algorithms used for tiles and levels and porting them to C. 
 - Figuring out the formats for sprites, level chunks and level maps and exporting them to an image.
 
 <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 250px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps/trellias-bay.png" alt="" style="height: 250px;" />
