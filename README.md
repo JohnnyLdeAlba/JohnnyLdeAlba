@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### Languages I Know
+### Languages and Libraries I Know
 
 - Programming Languages: C, C++, C#, Pascal, Java, ActionScript, JavaScript, TypeScript, Perl, PHP, Python, Solidity
-- Libraries: ReactJS
+- Libraries: ReactJS, WIN32 API
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3
 
