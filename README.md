@@ -13,7 +13,7 @@ There is nothing I can't do! I love development and I love learning!
 
 ## Favorite Projects I've Built
 
-Below is a sample of projects that I've built from scratch. Until I got into development professionally I preferred creating everything from the ground up.
+Below are a sample of projects that I've built from scratch. Until I got into development professionally I preferred creating everything from the ground up.
 
 - [A Wiki (2008)](https://enigma4.nexusultima.com/cgi-bin/)
 - [A Social Network (2012)](https://enigmav.nexusultima.com/cgi-bin/)
