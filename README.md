@@ -18,8 +18,8 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 
 - [A Wiki (2008)](https://enigma4.nexusultima.com/cgi-bin)
 - [A Social Network (2012)](https://enigmav.nexusultima.com)
-- A Game Demo
-- A Game Engine
+- [A Game Demo](https://nexusultima.com/agartha.html5)
+- [A Game Engine](https://nexusultima.com/bluedream.js)
 - Graphics Extractors (for the Ecco the Dolphin series)
 - [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
 
