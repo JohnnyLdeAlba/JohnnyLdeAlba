@@ -20,7 +20,7 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 - [A Social Network (2012)](https://enigmav.nexusultima.com)
 - [A Game Demo](https://nexusultima.com/agartha.html5)
 - [A Game Engine](https://nexusultima.com/bluedream.js)
-- [Graphics Extraction Library (for the Ecco the Dolphin series)](https://github.com/JohnnyLdeAlba/ecco-lib)
+- [A Graphics Extraction Library (for the Ecco the Dolphin series)](https://github.com/JohnnyLdeAlba/ecco-lib)
 - [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
 
 ## React and web3!
