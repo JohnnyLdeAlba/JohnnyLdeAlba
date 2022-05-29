@@ -30,7 +30,7 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 
 ## My Greatest Programming Achievement
 
-My greatest programming achievement is [EccoLib](https://github.com/JohnnyLdeAlba/ecco-lib), A graphics extraction library for the Ecco the Dolphin series.
+My greatest programming achievement is [EccoLib](https://github.com/JohnnyLdeAlba/ecco-lib), a graphics extraction library for the Ecco the Dolphin series.
 I achieved this by disassembling code from the Ecco the Dolphin series and porting it to C. My goal was to extract the graphics from these wonderful games which required:
 
 - Learning 68000 assembly.
