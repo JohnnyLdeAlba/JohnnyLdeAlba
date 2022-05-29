@@ -31,13 +31,13 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 ## My Greatest Programming Achievement
 
 My greatest programming achievement is [EccoLib](https://github.com/JohnnyLdeAlba/ecco-lib), a graphics extraction library for the Ecco the Dolphin series.
-To build this required dissassembling the games code and zeroing in on key components needed to decompress and reconstruct all the graphical data. My goal was to extract all the graphics from these wonderful games which required:
+To build this required dissassembling the games code and zeroing in on key components needed to decompress and reconstruct all the graphical data. My goal was to extract all the graphics from these wonderful games. To do this required:
 
 - Learning 68000 assembly.
 - Learning how to use tools for reverse engineering software (such as [Radare2](https://rada.re/n)).
 - Learning about the Sega Genesis's hardware including color, sprite and tile formats.
 - Finding the decompression algorithms used for tiles and levels and porting them to C. 
-- Figuring out the formats for sprites, stage sprites, level chunks and level maps then exporting them to an image.
+- Figuring out the formats for sprites, stage sprites, level chunks, level maps then exporting them to an image.
 
 <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 250px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps/trellias-bay.png" alt="" style="height: 250px;" />
 
