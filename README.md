@@ -44,7 +44,7 @@ To build this required dissassembling the games code and zeroing in on key compo
 
 ## Projects I'm Involved In
 
-#### Founder of [Ecco the Dolphin Online](https://eccothedolphin.online)
+### Founder of [Ecco the Dolphin Online](https://eccothedolphin.online)
 Ecco the Dolphin Online is a community dedicated to reverse engineering, preservation, game oddities & history of everything from the Ecco the Dolphin series.
 <!---
 JohnnyLdeAlba/JohnnyLdeAlba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
