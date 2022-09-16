@@ -45,6 +45,9 @@ To build this required dissassembling the games code and zeroing in on key compo
 
 ## Projects I'm Involved In
 
+### Curator and Lead Developer of [Immortal Player Characters Version 0](https://ipcv0.io)
+Immortal Player Characters version 0 is an abandoned project from 2018 that I revived. The project was abadoned by its original team, due to a broken Ethereum contract. I created a wrapper contract that repairs the issues and exploits and an accompanying website that collectors can use to view their tokens.
+
 ### Founder of [Ecco the Dolphin Online](https://eccothedolphin.online)
 Ecco the Dolphin Online is a community dedicated to reverse engineering, preservation, game oddities & history of everything from the Ecco the Dolphin series.
 <!---
