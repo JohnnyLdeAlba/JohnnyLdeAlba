@@ -1,6 +1,6 @@
 ## Hi, I'm Johnny de Alba!
 
-I am a freelance developer from Vallejo, California with experience in a variety of programming disiplines. I'm a Full Stack developer, a UX/UI designer, a web3 developer, a game designer, a Database developer, and I can reverse engineer software from a variety of different platforms. 
+I am a freelance developer from Vallejo, California with experience in a variety of programming disiplines. I'm a Full Stack developer, a UX/UI designer, a web3/Solidity developer, a game designer, a Database developer, and I can reverse engineer software from a variety of different platforms. 
 
 There is nothing I can't do! I love development and I love learning!
 
