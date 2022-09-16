@@ -23,8 +23,9 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 - [A Graphics Extraction Library (for the Ecco the Dolphin series)](https://github.com/JohnnyLdeAlba/ecco-lib)
 - [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
 
-## React and web3!
+## React, Solidity and web3!
 
+- [IPCv0.io](https://ipcv0.io/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
 - [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
 
