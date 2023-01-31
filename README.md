@@ -8,7 +8,7 @@ There is nothing I can't do! I love development and I love learning!
 
 - Programming Languages: C, C++, C#, Pascal, Java, ActionScript, JavaScript, TypeScript, Solidity, Perl, PHP, Python
 - Databases: MySQL/MariaDB, PostGres
-- Libraries: ReactJS, Win32 API, Ethers.js, Express.js, OpenGL, WebGL, Direct2D, DirectX 8
+- Libraries: ReactJS, NextJS, Tailwind, Win32 API, Ethers.js, Express.js, OpenGL, WebGL, Direct2D, DirectX 8
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3
 
