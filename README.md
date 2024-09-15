@@ -12,6 +12,13 @@ There is nothing I can't do! I love development and I love learning!
 - Assembly Languages: 6502, 68000, x86, z80
 - Other: HTML5, CSS3, Docker
 
+## React, Solidity and web3!
+
+- [Ecco Text Generator](http://ecco-text-generator.johnnyldealba.com) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
+- [Immortal Player Characters Version 0](http://ipc-version-0.johnnyldealba.com/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
+- [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
+- [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
+
 ## Favorite Projects I've Built
 
 Below are a sample of projects that I've built from scratch. Until I got into development professionally I preferred creating everything from the ground up.
@@ -22,14 +29,6 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 - [A Game Engine](https://nexusultima.com/bluedream.js)
 - [A Graphics Extraction Library (for the Ecco the Dolphin series)](https://github.com/JohnnyLdeAlba/ecco-lib)
 - [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
-
-## React, Solidity and web3!
-
-- [Ecco Text Generator](http://ecco-text-generator.johnnyldealba.com) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
-- [Immortal Player Characters Version 0](http://ipc-version-0.johnnyldealba.com/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
-- [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
-- [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
-- [TraitBuilder](https://core-frontend-nine.vercel.app/examples/trait-builder) A universal trait builder built in NextJS that can swap traits for existing NFTs and generate a new NFT.
 
 ## My Greatest Programming Achievement
 
