@@ -26,7 +26,7 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 ## React, Solidity and web3!
 
 - [Ecco Text Generator](http://ecco-text-generator.johnnyldealba.com) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
-- [Immortal Player Characters Version 0]([https://ipcv0.io/](http://ipc-version-0.johnnyldealba.com/)) A website that interfaces with an Ethereum wrapper contract both of which I developed.
+- [Immortal Player Characters Version 0](http://ipc-version-0.johnnyldealba.com/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
 - [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
 - [TraitBuilder](https://core-frontend-nine.vercel.app/examples/trait-builder) A universal trait builder built in NextJS that can swap traits for existing NFTs and generate a new NFT.
