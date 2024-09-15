@@ -10,7 +10,7 @@ There is nothing I can't do! I love development and I love learning!
 - Databases: MySQL/MariaDB, PostGres
 - Libraries: ReactJS, NextJS, Tailwind, Win32 API, Ethers.js, Express.js, OpenGL, WebGL, Direct2D, DirectX 8
 - Assembly Languages: 6502, 68000, x86, z80
-- Other: HTML5, CSS3
+- Other: HTML5, CSS3, Docker
 
 ## Favorite Projects I've Built
 
@@ -26,10 +26,10 @@ Below are a sample of projects that I've built from scratch. Until I got into de
 ## React, Solidity and web3!
 
 - [Ecco Text Generator](http://ecco-text-generator.johnnyldealba.com) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
-- [TraitBuilder](https://core-frontend-nine.vercel.app/examples/trait-builder) A universal trait builder built in NextJS that can swap traits for existing NFTs and generate a new NFT.
-- [IPCv0.io](https://ipcv0.io/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
+- [Immortal Player Characters Version 0]([https://ipcv0.io/](http://ipc-version-0.johnnyldealba.com/)) A website that interfaces with an Ethereum wrapper contract both of which I developed.
 - [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
+- [TraitBuilder](https://core-frontend-nine.vercel.app/examples/trait-builder) A universal trait builder built in NextJS that can swap traits for existing NFTs and generate a new NFT.
 
 ## My Greatest Programming Achievement
 
@@ -44,14 +44,6 @@ To build this required dissassembling the games code and zeroing in on key compo
 
 <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/sprite-sheets/vortex-hybrid.png" alt="" style="height: 250px;" /> <img src="https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps/trellias-bay.png" alt="" style="height: 250px;" />
 
-
-## Projects I'm Involved In
-
-### Curator and Lead Developer of [Immortal Player Characters Version 0](https://ipcv0.io)
-Immortal Player Characters version 0 is an abandoned project from 2018 that I revived. The project was abadoned by its original team, due to a broken Ethereum contract. I created a wrapper contract that repairs the issues and exploits and an accompanying website that collectors can use to view their tokens.
-
-### Founder of [Ecco the Dolphin Online](https://eccothedolphin.online)
-Ecco the Dolphin Online is a community dedicated to reverse engineering, preservation, game oddities & history of everything from the Ecco the Dolphin series.
 <!---
 JohnnyLdeAlba/JohnnyLdeAlba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
