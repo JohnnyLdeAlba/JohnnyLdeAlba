@@ -14,7 +14,7 @@ There is nothing I can't do! I love development and I love learning!
 
 ## React, Solidity and web3!
 
-- [Ecco Text Generator](http://ecco-text-generator.johnnyldealba.com) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
+- [Ecco Text Generator](https://eccoonline.net/ecco-text-generator) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
 - [Immortal Player Characters Version 0](http://ipc-version-0.johnnyldealba.com/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
 - [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://eccothedolphin.online/) A website built in React and Typescript that has an image gallery and articles.
