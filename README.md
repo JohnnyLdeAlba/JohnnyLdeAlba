@@ -15,7 +15,7 @@ There is nothing I can't do! I love development and I love learning!
 ## React, Solidity and web3!
 
 - [Ecco Text Generator](https://eccoonline.net/ecco-text-generator) A text generator built in NextJS that can create animated GIFs and images in the style of messages from Ecco the Dolphin.
-- [Immortal Player Characters Version 0](http://ipc-version-0.johnnyldealba.com/) A website that interfaces with an Ethereum wrapper contract both of which I developed.
+- [Immortal Player Characters Version 0](https://github.com/JohnnyLdeAlba/ipcv0-website) A website that interfaces with an Ethereum wrapper contract both of which I developed.
 - [MyIPC.io](https://myipc.io/) A React based dApp that decodes game characters from the Ethereum blockchain.
 - [Ecco the Dolphin Online](https://legacy.ecco-online.net/) A website built in React and Typescript that has an image gallery and articles.
 
@@ -23,12 +23,12 @@ There is nothing I can't do! I love development and I love learning!
 
 Below are a sample of projects that I've built from scratch. Until I got into development professionally I preferred creating everything from the ground up.
 
-- [A Wiki (2008)](https://enigma4.nexusultima.com/cgi-bin)
-- [A Social Network (2012)](https://enigmav.nexusultima.com)
-- [A Game Demo](https://nexusultima.com/agartha.html5)
-- [A Game Engine](https://nexusultima.com/bluedream.js)
+- [A Wiki (2008)]((https://github.com/JohnnyLdeAlba/enigma4)
+- [A Social Network (2012)](https://github.com/JohnnyLdeAlba/enigmav)
+- [A Game Demo](https://github.com/JohnnyLdeAlba/agartha-html5)
+- [A Game Engine](https://github.com/JohnnyLdeAlba/bluedream-js)
 - [A Graphics Extraction Library (for the Ecco the Dolphin series)](https://github.com/JohnnyLdeAlba/ecco-lib)
-- [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccothedolphin.online/ecco2-password-generator)
+- [Password Encoders and Decoders (for the Ecco the Dolphin series)](https://eccoonline.net/ecco-password-generator)
 
 ## My Greatest Programming Achievement
 
